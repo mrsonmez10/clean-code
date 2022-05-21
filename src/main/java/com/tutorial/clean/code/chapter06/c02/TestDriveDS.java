@@ -21,7 +21,7 @@ public class TestDriveDS {
     public class Geometry {
         public final double PI = 3.141592653589793;
 
-        public double area(Object shape){
+        public double area(Object shape) {
             if (shape instanceof Square) {
                 Square s = (Square)shape;
                 return s.side * s.side;
