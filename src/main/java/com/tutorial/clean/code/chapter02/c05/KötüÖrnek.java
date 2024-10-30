@@ -8,7 +8,6 @@ public class KötüÖrnek {
         m_dsc = name;
     }
 
-
     int s;
     int[] t;
     {

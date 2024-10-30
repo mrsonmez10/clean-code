@@ -31,7 +31,7 @@ public class TestDrive {
             G5: Duplication
              - Code duplication önüne geç. (sonar vs gibi toollar)
             G6: Code at Wrong Level Of Abstraction
-             - kitap örneğinde göster
+             - kitap örneğinde göster (Interface segration)
             G7: Base Classes Depending on their Derivatives
              - Car Abstract class (create(String)), bmw alt class,
              car bmw'ye bağlı olmamalı

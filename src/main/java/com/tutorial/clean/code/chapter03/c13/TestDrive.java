@@ -2,6 +2,8 @@ package com.tutorial.clean.code.chapter03.c13;
 
 public class TestDrive{
 
+	// Hata kodları yerine exception
+
 // if (deletePage(page) == E_OK) {
 //        if (registry.deleteReference(page.name) == E_OK) {
 //            if (configKeys.deleteKey(page.name.makeKey()) == E_OK){

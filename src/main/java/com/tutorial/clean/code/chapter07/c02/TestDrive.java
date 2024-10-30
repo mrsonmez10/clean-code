@@ -7,7 +7,9 @@ public class TestDrive {
 
     /*
         Checked exception atan bir yapıyı lambdalar ile kullanamayız.
+        // IO Exception
      */
+
 
     static void stringConverter() throws RuntimeException {
         String test = null;

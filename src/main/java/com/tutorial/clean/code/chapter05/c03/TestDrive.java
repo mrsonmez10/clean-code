@@ -4,10 +4,11 @@ public class TestDrive{
     int lineCount;
     int totalChars;
 
+    // Space
     private void measureLine(String line){
         lineCount++;
-        int lineSize = line.length();
-        totalChars += lineSize;
+        int lineSize=line.length();
+        totalChars+=lineSize;
     }
 
 }

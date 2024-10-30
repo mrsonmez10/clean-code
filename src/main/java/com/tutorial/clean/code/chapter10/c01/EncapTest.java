@@ -1,6 +1,9 @@
 package com.tutorial.clean.code.chapter10.c01;
 
 public class EncapTest {
+
+    // Aşağı doğru ve ilişki kuralı
+
     private String name;
     private String idNum;
     private int age;

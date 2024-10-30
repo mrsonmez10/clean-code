@@ -5,7 +5,7 @@ import java.util.Date;
 public class IyiÖrnek {
 
     private Date generationTimestamp;
-    private Date modificationTimestamp;;
+    private Date modificationTimestamp;
     private final String recordId = "102";
 
 

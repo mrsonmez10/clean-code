@@ -12,5 +12,9 @@ public class TestDrive {
 
     // BDD -> Cucumber -
 
+	public static void main(String[] args) {
+		CreditCalculation creditCalculation = new CreditCalculation();
+		System.out.println(creditCalculation.creditCalculator(-1000, 3));
+	}
 
 }

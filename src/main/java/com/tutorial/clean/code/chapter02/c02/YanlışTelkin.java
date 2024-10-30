@@ -4,7 +4,6 @@ public class YanlışTelkin {
 
     String accountName = "";
 
-
     static int O;
     static int l;
 

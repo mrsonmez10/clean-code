@@ -17,7 +17,7 @@ public class TestDrive {
                 - yorumlarla commentleri bir tutalım.
                 - kod değiştiğinde commentleri de değiştirelim
             C3: Redundant comment
-                - i++; // Increment i -> sağol :D
+                - i++; // Increment i ->
             C4: Poorly written comment
                 - yorum yazılması gereken yerlerde açıklayıcığı iyi sağlamak gerekiyor
             C5: commented-out code

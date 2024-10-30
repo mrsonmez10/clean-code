@@ -8,7 +8,6 @@ public class İyiÖrnek {
         this.description = description;
     }
 
-
     {
         int realDaysPerIdealDay = 4;
         int WORK_DAYS_PER_WEEK = 5;

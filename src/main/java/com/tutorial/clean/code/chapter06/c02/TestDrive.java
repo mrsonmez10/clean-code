@@ -2,6 +2,8 @@ package com.tutorial.clean.code.chapter06.c02;
 
 public class TestDrive {
 
+	// DATA OBJECT ANTISYMMETRY
+
     /*
         Objeler, verilerini soyutlamaların arkasına saklar
         ve bu veriler üzerinde çalışan fonksiyonları ortaya çıkarır.

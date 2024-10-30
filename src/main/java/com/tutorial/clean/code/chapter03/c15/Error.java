@@ -1,6 +1,7 @@
 package com.tutorial.clean.code.chapter03.c15;
 
 public enum Error {
+    // DEPENDENCY MAGNET
     OK,
     INVALID,
     NO_SUCH,

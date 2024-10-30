@@ -8,6 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Set;
 
+// UNCLE BOB STYLE
 public class CodeAnalyzer implements JavaFileAnalysis {
     private int lineCount;
     private int maxLineWidth;
